@@ -1,1 +1,3 @@
-"firstline" 
+echo "firstline" >newfile.txt
+git add newfile.txt
+
